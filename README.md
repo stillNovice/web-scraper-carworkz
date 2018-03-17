@@ -18,6 +18,7 @@ $ npm start
 $ git clone https://github.com/stillNovice/oh-my-logs-2.git
 $ cd oh-my-logs-2
 $ npm install
+$ sudo npm install -g babel-cli
 $ cd config/config.js and enter the mongo db url and database name in respective fields.
 $ node app.js
 
